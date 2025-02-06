@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![EvgenioLoveS GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgenioLoveS&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenioLoveS&layout=compact&theme=radical)
+
+
 <!--
 **EvgenioLoveS/EvgenioLoveS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
